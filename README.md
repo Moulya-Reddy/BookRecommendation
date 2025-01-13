@@ -18,3 +18,5 @@ The dataset is expected to be in an Excel file format (.xlsx) with the following
 
 book_title: The title of the book.
 book_desc: The description of the book.
+
+You can improve the dataset by adding more book details for more accurate recommendations.
