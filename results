@@ -1,0 +1,11 @@
+#Sample Output
+Data loaded successfully. Number of books: 1074
+Enter the book name:  The Hunger Games
+
+Top 5 Recommended Books:
+262                        Catching Fire
+374                           Mockingjay
+12782                  Games People Play
+190      The Hunger Games Trilogy Boxset
+12560                    Blood Will Tell
+Name: book_title, dtype: object
